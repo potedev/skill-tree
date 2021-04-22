@@ -1,0 +1,13 @@
+body {
+  background-color: #222;
+  color: white;
+}
+
+.title {
+    font-weight: 700;
+    text-align: center;
+}
+
+.student {
+    color: wheat;
+}
