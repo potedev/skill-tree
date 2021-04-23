@@ -1,6 +1,7 @@
 export class Skill {
-    constructor(name, category) {
+    constructor(name, description, category) {
         this.name = name
+        this.description = description
         this.category = category
     }
 }

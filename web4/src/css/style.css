@@ -1,13 +1,33 @@
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
 body {
   background-color: #222;
   color: white;
 }
 
 .title {
-    font-weight: 700;
-    text-align: center;
+  font-weight: 700;
+  text-align: center;
+}
+
+.category {
+  color: aquamarine;
+  font-weight: 400;
+}
+
+.skill {
+  font-weight: 300;
+  line-height: 1.2rem;
+  margin: 0 0 10px 0;
 }
 
 .student {
-    color: wheat;
+  color: wheat;
+}
+
+.level {
+  color: yellow;
 }
